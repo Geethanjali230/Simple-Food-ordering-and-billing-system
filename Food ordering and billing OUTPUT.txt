@@ -1,0 +1,54 @@
+OUTPUT:
+
+WELCOME TO GREAT INDIAN RESTAURANT
+enter number of orders to be placed:
+5
+enter the item number 1
+enter the item name
+MAGGI
+enter the quantity
+3
+enter the price per each unit
+30
+enter the item number 2
+enter the item name
+CAKE
+enter the quantity
+3
+enter the price per each unit
+25
+enter the item number 3
+enter the item name
+TEA
+enter the quantity
+2
+enter the price per each unit
+15
+enter the item number 4
+enter the item name
+COFFEE
+enter the quantity
+3
+enter the price per each unit
+20
+enter the item number 5
+enter the item name
+CHOCO
+enter the quantity
+3
+enter the price per each unit
+45
+********************************GREAT INDIAN RESTAURANT****************************************
+********************************WELCOME TO BILLING SECTOR**************************************
+ITEM NAME                       QUANTITY                        TOTAL
+-------------------------------------------------------------------
+MAGGI                           3                               90
+CAKE                            3                               75
+TEA                             2                               30
+COFFEE                          3                               60
+CHOCO                           3                               135
+--------------------------------------------------------------------
+The total price is:                                             390
+--------------------------------------------------------------------
+                              Thank you
+                              visit again
